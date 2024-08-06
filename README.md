@@ -95,7 +95,7 @@
 
 ## Connect with me:
 <div align="left">
-  <a href="https://www.linkedin.com/feed/?trk=guest_homepage-basic_google-one-tap-submit" target="_blank">
+  <a href="https://www.linkedin.com/in/sudipta-das-63287b216/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
   <a href="https://github.com/Sudiptamegha" target="_blank">
@@ -110,7 +110,7 @@
 
 
 ##
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people</b> so if you'd like to say <b>hi, I'd be delighted to get to know you better!</b> :)</em>
+<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I genuinely enjoy connecting with new people so if you'd like to say hi, I'd be delighted to get to know you better!</b> :)</em>
 
 
 
